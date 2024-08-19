@@ -5,6 +5,12 @@
 
 - Este site, serve como portfólio para a autora divulgar seus trabalhos.
 
+## Ferramentas Utilizadas
+
+- HTML5: 🟧📄
+
+- CSS3: 🎨🟦
+
 # Licença 📜
 
 Este projeto está sob licença do Projeto Desenvolve Bom Despacho e da escritora Bárbara Lorrayne.
