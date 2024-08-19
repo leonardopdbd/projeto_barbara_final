@@ -9,7 +9,7 @@
 
 Este projeto está sob licença do Projeto Desenvolve Bom Despacho e da escritora Bárbra Lorrayne.
 
-# Participantes do Projeto 🤝
+# Colaboradores do Projeto 🤝
 
 A dupla que fez fez o projeto: os alunos Leonardo Ferraz e Marcelly Haustein, sob supervisão do Time de Sucesso e da Professora Joana Souza.
 
