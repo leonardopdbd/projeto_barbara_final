@@ -7,7 +7,7 @@
 
 # Licença 📜
 
-Este projeto está sob licença do Projeto Desenvolve Bom Despacho e da escritora Bárbra Lorrayne.
+Este projeto está sob licença do Projeto Desenvolve Bom Despacho e da escritora Bárbara Lorrayne.
 
 # Colaboradores do Projeto 🤝
 
